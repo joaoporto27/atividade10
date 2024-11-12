@@ -1,0 +1,14 @@
+*{
+    justify-content: center;
+}
+
+body {
+    justify-content: center;
+    display: flex;
+    gap: 5rem;
+}
+
+body img {
+    width: auto;
+    height: 20rem;
+}
